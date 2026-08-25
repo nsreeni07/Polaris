@@ -6,9 +6,9 @@ Most amateur rocketry projects rely on passive stablization:fins,high-TWR motors
 
 # Breakdown
 Polaris is made up of 3 main subsystems
- 1.Rocket-Airframe,Motors
- 2.Flight Computer-Custom electronics and firmware that control the veichles orientation 
- 3.Launchpad - the ground support equipment that holds, arms, and releases the rocket 
+  1. Rocket-Airframe,Motors
+  2. Flight Computer-Custom electronics and firmware that control the veichles orientation 
+  3. Launchpad - the ground support equipment that holds, arms, and releases the rocket 
 
 # Subsystems In Depth 
   1. Rocket
