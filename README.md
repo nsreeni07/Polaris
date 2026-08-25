@@ -34,7 +34,7 @@ Polaris is made up of 3 main subsystems
   4. Firmware
   The flight computer is written from scratch organized into driver-level code (Core/) and mission appliccation logic (App/), covering the state machine, sensor fusion (Kalman filtering), pyro firing logic, servo/TVC Control, GPS parsing, DFU handoff, and the onboard     parameter store. Safety critical paths, particularly pyro firing, use redundant latching to prevent unintended actuation.  
 
-
+# CAD:[onshape Link]([url](https://cad.onshape.com/documents/130dc36974a4df304d494706/w/43298f754d2d228858bc474d/e/d549df94310ea82951faf52f?renderMode=0&uiState=6a8dd186323a86b6993efd52)
 
  |Category                              |Name                              |Price  |Source                                                                      |Purpose                                  |FIELD6|Quantity|
 |--------------------------------------|----------------------------------|-------|----------------------------------------------------------------------------|-----------------------------------------|------|--------|
