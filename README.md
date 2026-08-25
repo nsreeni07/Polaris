@@ -35,6 +35,10 @@ Polaris is made up of 3 main subsystems
   The flight computer is written from scratch organized into driver-level code (Core/) and mission appliccation logic (App/), covering the state machine, sensor fusion (Kalman filtering), pyro firing logic, servo/TVC Control, GPS parsing, DFU handoff, and the onboard     parameter store. Safety critical paths, particularly pyro firing, use redundant latching to prevent unintended actuation.  
 
   onshape Link: https://cad.onshape.com/documents/130dc36974a4df304d494706/w/43298f754d2d228858bc474d/e/d549df94310ea82951faf52f?renderMode=0&uiState=6a8dd186323a86b6993efd52
+<img width="772" height="728" alt="Launchpad with Rocket" src="https://github.com/user-attachments/assets/42cab2bb-e54e-4a00-bbd3-1644237f4d72" />
+<img width="888" height="651" alt="Rocket (2)" src="https://github.com/user-attachments/assets/005c3876-2054-4644-a47c-666ae81b8ec9" />
+<img width="778" height="723" alt="TVC Mount (2)" src="https://github.com/user-attachments/assets/606329c3-ab5d-4b2a-831c-d25f4fade021" />
+<img width="1020" height="838" alt="Flight Computer PCB 3D" src="https://github.com/user-attachments/assets/25aeb47f-4358-4f50-be8a-89a1827ec238" />
 
  |Category                              |Name                              |Price  |Source                                                                      |Purpose                                  |FIELD6|Quantity|
 |--------------------------------------|----------------------------------|-------|----------------------------------------------------------------------------|-----------------------------------------|------|--------|
