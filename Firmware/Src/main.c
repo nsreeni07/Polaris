@@ -1,5 +1,4 @@
-/* CubeMX-generated init calls (MX_GPIO_Init etc.) go here as usual -
- * this file only shows the App/ hookup, not full HAL bring-up. */
+
 #include "main.h"
 #include "app_main.h"
 
@@ -16,8 +15,7 @@ int main(void)
 #if ENABLE_GPS
     MX_USART6_UART_Init();
 #endif
-    /* MX_ADC1_Init() once ADC is added to the .ioc for pyro continuity */
-    /* MX_USB_OTG_FS_PCD_Init() once USB is switched to Device_Only */
+
 
     app_init();
     app_loop();   /* never returns */
