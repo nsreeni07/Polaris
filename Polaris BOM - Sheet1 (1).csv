@@ -1,0 +1,32 @@
+Category,Name,Price,Source,Purpose,,Quantity
+Electronics,ESP32 type-c FT232,$4.60,https://tinyurl.com/yhpx8n6v,MicroController for Launchpad,,1
+,ESP32 Expansion Board,$2.60,https://tinyurl.com/23y7nzj4,Expansion Board,,1
+,Esp32 Cam,$6.80,https://tinyurl.com/4du8rxrx,Camera Board for recording ,,1
+,WS2812 Breakout,$1.10,https://tinyurl.com/47v776rm,Lights for Launchpad,,4
+,RGB Strip Light,$5.10,https://tinyurl.com/364y65ux,Lights for Launchpad,,1
+,SG90 Servos,$9.00,https://tinyurl.com/mr2s3xp6,Servos for TVC and Launchpad Control Arms,,5
+,DRV8871 H-Bridge Motor Driver,$2.65,https://tinyurl.com/32cf8wx4,Motor Driver for Water Deluge System,,1
+,Jumper Wires,$4.70,https://tinyurl.com/58u2vc35,Wires,,1
+,22 AWG Wire,$3.39,https://tinyurl.com/bdz5rad7,Wires,,1
+,2.54mm Screw Terminal,$5.22,https://tinyurl.com/4t54j69v,Screw Terminal,,2
+,JST XH2.54 Pitch 2 Pin Male Female,$2.29,https://tinyurl.com/397bn54r,Battery Connector,,1
+,Micro SD Card,$7.70,https://tinyurl.com/yx3v2jh6,SD Card for Data logging ,,1
+,OV5640 Camera,$5.47,https://tinyurl.com/mv5eb5tb,Camera For recording ,,1
+,DC Sumersible Pump,$2.43,https://tinyurl.com/bp4uh89j,Water Pump,,1
+,2S Lipo ,$4.60,https://tinyurl.com/3x3pstst,Battery ,,1
+Category,Name,Price,Source,Purpose,,Quantity
+Hardware,"3.00"" Airframe Tubing",$14.16,https://locprecision.com/products/cardboard-airframes?variant=39778656125119,Main Body Tube ,,1
+,Hot Glue Sticks ,$2.17,https://tinyurl.com/yvwvy5t6,Adhesive,,1
+,Epoxy,$3.42,https://tinyurl.com/9rpxazkp,Adhesive,,1
+,Silicone Tube ,$2.80,https://tinyurl.com/3bzxhtnu,Tubing for Water Deluge System,,1
+,Header Pins,$3.63,https://tinyurl.com/u3jnrvzz,Header Pins,,4
+,,,,,,
+Below Totals contain Tax and Shipping ,,,,,,
+,,,,,,
+LCSC,$105.00,(PCB Parts,,,,
+JLCPCB,$33.00,(Bare PCB),,,,
+Aliexpress Total ,$114.67,,,,,
+LOC Total,$28.30,,,,,
+,,,,,,
+,,,,,,
+Grant Total:,$280.97,,,,,
