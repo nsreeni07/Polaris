@@ -39,6 +39,10 @@ Polaris is made up of 3 main subsystems
 <img width="772" height="728" alt="Launchpad with Rocket" src="https://github.com/user-attachments/assets/42cab2bb-e54e-4a00-bbd3-1644237f4d72" />
 <img width="888" height="651" alt="Rocket (2)" src="https://github.com/user-attachments/assets/005c3876-2054-4644-a47c-666ae81b8ec9" />
 <img width="778" height="723" alt="TVC Mount (2)" src="https://github.com/user-attachments/assets/606329c3-ab5d-4b2a-831c-d25f4fade021" />
+
+ # PCB
+<img width="453" height="573" alt="Screenshot 2026-08-26 123556" src="https://github.com/user-attachments/assets/e0d6747d-6db5-4915-8c33-b577fc9967c1" />
+<img width="1175" height="840" alt="Screenshot 2026-08-26 123541" src="https://github.com/user-attachments/assets/3db4210f-77a0-44e4-b335-be4b7e12542d" />
 <img width="1020" height="838" alt="Flight Computer PCB 3D" src="https://github.com/user-attachments/assets/25aeb47f-4358-4f50-be8a-89a1827ec238" />
 
  |Category                              |Name                              |Price  |Source                                                                      |Purpose                                  |FIELD6|Quantity|
