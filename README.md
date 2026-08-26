@@ -2,7 +2,7 @@
 Polaris is a two-stage amateur rocket with active thrust vector control(TVC) on the booster, along with a custom flight computer, ground support hardware, and firmware. 
 
 # Why
-Most amateur rocketry projects rely on passive stablization:fins,high-TWR motors. Polaris was build to go further. It uses a ground lit booster stage with activle gimbal control instead of fins. Then after apogee the second motor lights hot-staging the booster stage off. Then paired with the flight computer the rocket stablizes and lands by itself
+Most amateur rocketry projects rely on passive stablization:fins,high-TWR motors. Polaris was built to go further. It has a ground lit booster stage with activle gimbal control instead of fins. Then after apogee the second motor lights hot-staging the booster stage off. Then paired with the flight computer the rocket stablizes and lands by itself
 
 # Breakdown
 Polaris is made up of 3 main subsystems
@@ -12,7 +12,7 @@ Polaris is made up of 3 main subsystems
 
 # Subsystems In Depth 
   1. Rocket
-      - 2-Stage ground-;it booster with TVC 
+      - 2-Stage both with TVC 
       - 74cm length, 7.62 diameter, 662g dry mass
       - F-15 Motors 
 
